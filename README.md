@@ -1,6 +1,6 @@
 # S.U.P.E.R. BET: early warning system for the Bucharest Stock Exchange
 
-**DataSprint 2026 datathon (ASE × KPMG), 4–6 November 2026** · team *CH4MPION Entreprises*
+🏆 **Winner of the "Risk Radar" special award** at the DataSprint 2026 datathon (ASE × KPMG), 4–6 November 2026 · team *CH4MPIONS*
 
 S.U.P.E.R. estimates, every day, the probability that the **BET index falls by at least 5% within the next 20 trading days**.
 It turns that probability into risk levels and confirmed alerts, and explains what drives the risk.
