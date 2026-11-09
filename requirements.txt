@@ -1,0 +1,13 @@
+# Notebook: notebooks/model_final.ipynb (Python 3.10+)
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+optuna
+matplotlib
+seaborn
+statsmodels
+shap
+lime
+jupyter

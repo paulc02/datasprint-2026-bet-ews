@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Competition data (not redistributed) and generated files
+data/
+*.csv
+!dashboard/scripts/bet_bvb_2023_2026.csv
+submission.csv
+dashboard_export.json
+
+# Node
+node_modules/
+dashboard/dist/
+dashboard/dist-single/
+
+# OS
+.DS_Store
+Thumbs.db
