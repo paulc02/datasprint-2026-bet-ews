@@ -5,7 +5,7 @@ __pycache__/
 venv/
 
 # Competition data (not redistributed) and generated files
-data/
+/data/
 *.csv
 !dashboard/scripts/bet_bvb_2023_2026.csv
 submission.csv
